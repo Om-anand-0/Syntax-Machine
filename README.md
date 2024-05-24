@@ -1,5 +1,4 @@
-Sure! Below is an example of a `README.md` file for a repository containing a syntax-machine program written in C. This example includes sections on installation, usage, and contribution guidelines.
-
+## Syntax-Machine
 ```markdown
 # Syntax-Machine
 
